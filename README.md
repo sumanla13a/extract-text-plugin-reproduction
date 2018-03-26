@@ -10,4 +10,3 @@ With `maxLimit` set to `1`,
 I am unable to generate final bundle of css.
 
 WIthout maxLimit, it works fine.
-
